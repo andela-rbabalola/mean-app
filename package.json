@@ -1,0 +1,23 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Pluralsight mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-rbabalola/mean-app.git"
+  },
+  "author": "Rotimi Babalola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-rbabalola/mean-app/issues"
+  },
+  "homepage": "https://github.com/andela-rbabalola/mean-app#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  }
+}
